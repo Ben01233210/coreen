@@ -1,8 +1,10 @@
+import ProductsList from "../components/Product/ProductList";
 
 function Products() {
     return (
     <div>
-        <h1>Products</h1>
+        <h1>Produkte</h1>
+        <ProductsList />
     </div>);
 }
 export default Products;

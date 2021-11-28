@@ -7,7 +7,7 @@ import ProductsPage from './pages/Products';
 import SpendenKlimaPage from './pages/SpendenKlima';
 import WarenkorbPage from './pages/Warenkorb';
 
-;
+
 
 function App() {
   return (
@@ -21,7 +21,7 @@ function App() {
       <Route path='/spendenKlima' element={<SpendenKlimaPage />} />
       <Route path='/warenkorb' element={<WarenkorbPage />} />
     </Routes>
-    <button>Produkte</button>
+    
   
   </Layout>
   );

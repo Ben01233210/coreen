@@ -1,0 +1,21 @@
+.product{
+    border-radius: 8px;
+    background-color: gainsboro;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    flex-shrink: 3;
+    margin: 5%;
+    width: 30%;
+    min-width: 200px;
+    height: 56,666666%;
+    min-height: 350px;
+    overflow: hidden;
+    align-self: stretch;
+    
+    
+}
+
+.info{
+    height: 20%;
+    min-height: 70px;
+    padding: 1em;
+}

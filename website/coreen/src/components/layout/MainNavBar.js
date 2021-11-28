@@ -18,7 +18,7 @@ function MainNavBar() {
                     <Link className={classes.link} to='/produkte'>Produkte</Link>
                 </li>
                 <li>
-                    <Link className={classes.link} to='/spendenKlima'>🌳</Link>
+                    <Link className={classes.link} to='/spendenKlima'>Klima</Link>
                 </li>
                 <li>
                     <Link className={classes.link} to='/warenkorb'><i class="fa fa-shopping-cart"></i></Link>
